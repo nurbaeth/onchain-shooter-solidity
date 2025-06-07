@@ -9,7 +9,7 @@
 
 - 🔫 3 shots per player  
 - 🎯 5x5 target grid   
-- 🧠 Strategic gameplay 
+- 🧠 Strategic gameplay   
 - ⛓️ 100% on-chain logic   
 - 💡 Perfect starter project for learning game logic in Solidity
 
