@@ -17,7 +17,7 @@
 1. **Player 1** creates a game and submits their hidden grid of targets. 
 2. **Player 2** joins with their own grid.      
 3. Each player submits 3 shots.   
-4. The smart contract compares shots vs targets.  
+4. The smart contract compares shots vs targets.   
 5. The player with the most hits wins.
 
 ## 🧱 Game Mechanics
