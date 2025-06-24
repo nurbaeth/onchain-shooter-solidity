@@ -18,7 +18,7 @@
 2. **Player 2** joins with their own grid.      
 3. Each player submits 3 shots.    
 4. The smart contract compares shots vs targets.   
-5. The player with the most hits wins. 
+5. The player with the most hits wins.  
 
 ## 🧱 Game Mechanics 
 - Each target grid is a `uint8[5][5]` matrix (0 = empty, 1 = target). 
