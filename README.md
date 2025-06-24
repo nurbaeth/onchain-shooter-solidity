@@ -11,7 +11,7 @@
 - 🎯 5x5 target grid     
 - 🧠 Strategic gameplay   
 - ⛓️ 100% on-chain logic      
-- 💡 Perfect starter project for learning game logic in Solidity  
+- 💡 Perfect starter project for learning game logic in Solidity   
 
 ## 🛠️ How It Works  
 1. **Player 1** creates a game and submits their hidden grid of targets.
