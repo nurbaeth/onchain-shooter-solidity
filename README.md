@@ -27,7 +27,7 @@
 - Draws are possible. 
  
 ## 🔐 Security & Fairness 
-- To keep things simple, this version does not use commit-reveal (target grids are visible).
+- To keep things simple, this version does not use commit-reveal (target grids are visible). 
 - In a future version, commit-reveal or zk proofs can be added for fairness.
 
 ## 📄 Contracts
