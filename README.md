@@ -24,7 +24,7 @@
 - Each target grid is a `uint8[5][5]` matrix (0 = empty, 1 = target).  
 - Each shot is submitted as a flattened index: `(x * 5 + y)`. 
 - The game finishes when both players fire all 3 shots. 
-- Draws are possible.
+- Draws are possible. 
  
 ## 🔐 Security & Fairness
 - To keep things simple, this version does not use commit-reveal (target grids are visible).
