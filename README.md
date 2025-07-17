@@ -20,7 +20,7 @@
 4. The smart contract compares shots vs targets.   
 5. The player with the most hits wins.   
 
-## 🧱 Game Mechanics 
+## 🧱 Game Mechanics   
 - Each target grid is a `uint8[5][5]` matrix (0 = empty, 1 = target).   
 - Each shot is submitted as a flattened index: `(x * 5 + y)`.   
 - The game finishes when both players fire all 3 shots.   
