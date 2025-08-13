@@ -3,7 +3,7 @@
 > On-chain turn-based shooting game built in Solidity  
      
 ![screenshot](https://dummyimage.com/600x200/000/fff&text=BlockBlaster+on-chain+game)  
-  
+   
 ## 🎮 Overview  
 **BlockBlaster** is a simple yet strategic shooting game played on a 5x5 grid, where two players compete by deploying targets and firing limited shots. Everything happens **on-chain**, secured by smart contracts.
       
