@@ -7,7 +7,7 @@
 ## 🎮 Overview    
 **BlockBlaster** is a simple yet strategic shooting game played on a 5x5 grid, where two players compete by deploying targets and firing limited shots. Everything happens **on-chain**, secured by smart contracts.
         
-- 🔫 3 shots per player         
+- 🔫 3 shots per player          
 - 🎯 5x5 target grid           
 - 🧠 Strategic gameplay      
 - ⛓️ 100% on-chain logic        
