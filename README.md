@@ -1,6 +1,6 @@
 # BlockBlaster         
          
-> On-chain turn-based shooting game built in Solidity     
+> On-chain turn-based shooting game built in Solidity      
         
 ![screenshot](https://dummyimage.com/600x200/000/fff&text=BlockBlaster+on-chain+game)   
       
